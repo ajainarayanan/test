@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "repo": "ajainarayanan/test",
+  "version": "0.0.1",
+  "images": [
+    "test.png",
+    "assets/test.png"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}
